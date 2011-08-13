@@ -1,0 +1,5 @@
+This code is used to:
+ 1) create new variables in the SRU dataset
+ 2) export to text files from SAS format
+ 3) create report on basic study characteristics to date
+ (NOTE: you do need to have the datasets to actually do anything) 
